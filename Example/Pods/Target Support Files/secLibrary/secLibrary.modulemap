@@ -1,0 +1,6 @@
+framework module secLibrary {
+  umbrella header "secLibrary-umbrella.h"
+
+  export *
+  module * { export * }
+}

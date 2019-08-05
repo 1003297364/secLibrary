@@ -1,0 +1,16 @@
+PODS:
+  - secLibrary (0.1.0)
+
+DEPENDENCIES:
+  - secLibrary (from `../`)
+
+EXTERNAL SOURCES:
+  secLibrary:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  secLibrary: fda750e63bb0d57464fbf551c1e73ea6e3c76d3b
+
+PODFILE CHECKSUM: 8ece1448d2052307cd74b3e0f8803cf4f70c1f65
+
+COCOAPODS: 1.7.5
